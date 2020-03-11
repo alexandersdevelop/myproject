@@ -1,0 +1,2 @@
+http://127.0.0.1:8000/get?base=Nat&date_st=20200108&date_en=20200108&ta_lst=all%2018%2B,age%20>=18&statistics=TVR,quantity&medias=cid,name,distr,day_type,pm_dow,start_time,pm_day
+http://127.0.0.1:8000/get?base=Nat&date_st=20200108&date_en=20200108&ta_lst=all%2018%2B,age%20>=18&statistics=TVR,quantity&medias=cid,name,distr,day_type,pm_dow,start_time,pm_day&total&time_group=prime
